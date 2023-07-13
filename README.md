@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgsantos&layout=default&card_width=250&hide=R,ampl,Shell,Component%20Pascal&langs_count=3" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgsantos&card_width=250&hide=R,ampl,Shell,Component%20Pascal&langs_count=3" />
 </a>
 
 <!--
